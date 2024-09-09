@@ -11,7 +11,7 @@ Have work projects and personal projects. Work projects have no PII or data from
 ## Work
 
 Started learning powershell and set up a script to create a new user and password and add them to the domain. Allows for multiple users to be set up.
-[Link for new user script](./painlessemu/work/blob/main/NewUser)
+[Link for new user script](https://github.com/painlessemu/work/blob/main/NewUser)
 
 ## Personal
 

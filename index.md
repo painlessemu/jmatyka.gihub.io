@@ -8,7 +8,7 @@ This website is to document projects and scripts currently working on and have w
 
 Have work projects and personal projects. Work projects have no PII or data from their networks. Personal projects are for educational use only
 
-## Work
+### Work
 
 Started learning powershell and set up a script to create a new user and password and add them to the domain. Allows for multiple users to be set up.
 [Link for new user script](https://github.com/painlessemu/work/blob/main/NewUser)

@@ -2,25 +2,18 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This website is to document projects and scripts currently working on and have worked on
 
-[Link to another page](./another-page.html).
+# Projects
 
-There should be whitespace between paragraphs.
+Have work projects and personal projects. Work projects have no PII or data from their networks. Personal projects are for educational use only
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Work
 
-# Header 1
+Started learning powershell and set up a script to create a new user and password and add them to the domain. Allows for multiple users to be set up.
+[Link for new user script](./painlessemu/work/blob/main/NewUser)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
+## Personal
 
 ```js
 // Javascript code with syntax highlighting.
